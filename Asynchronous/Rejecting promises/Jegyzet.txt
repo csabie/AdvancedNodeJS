@@ -1,0 +1,1 @@
+A callback egy blokknyi parancs függvénybe csomagolva, amely akkor hívódik ha az async hívás befejeződött.

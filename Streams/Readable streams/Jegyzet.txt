@@ -1,0 +1,1 @@
+Readable streams: egy forrásból adatokat olvas és egy pipline-n keresztül a destination-nek átadja.

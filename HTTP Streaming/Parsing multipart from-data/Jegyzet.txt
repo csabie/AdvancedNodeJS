@@ -1,0 +1,1 @@
+Ez arra van, hogy file-kat(video, szöveg, stb) feltölteni. Adott egy form és azon keresztül lehet file-kat küldeni a szerverre.

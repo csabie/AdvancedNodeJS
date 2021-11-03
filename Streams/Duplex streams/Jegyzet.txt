@@ -1,0 +1,4 @@
+A duplex stream implementálja a readable és writable streameket.
+Az a lényege ennek a duplex-nek, hogy a readable és a writable közé bármit betehetünk.
+Esetünkben egy throttle és egy report is van.
+Egy duplex nem változtat az adaton.

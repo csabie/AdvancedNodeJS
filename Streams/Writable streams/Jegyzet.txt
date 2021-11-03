@@ -1,0 +1,2 @@
+Writable streams egy desztináció a bejövő adatok számára. Writable stream-ek arra használatosak, hogy rögzítség az adatokat, 
+amelyek a readable-ről jönnek és majd később felhasználja valamire.

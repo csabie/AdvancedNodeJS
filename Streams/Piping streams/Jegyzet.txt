@@ -1,0 +1,1 @@
+bármilyen read stream belevezethető(pipe-olható) egy write stream-be

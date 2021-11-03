@@ -1,0 +1,5 @@
+Backpressure: Van olyan, hogy az adat egy readable stream-ről jön és túl gyors, hogy egy writable stream kezelje.
+Kb olyan mintha egy tölcsérbe túl gyorsan engednénk a vízet. Olyankor mellé folyna a víz.
+A backpressure azért, van hogy néha megállítsa a folyamot, amikor már a writable stream nem bírja kezelni. 
+Amikor már újra tudja kezelni az adatokat, akkor újra elindul a readable stream. Ezt addig csinálja amíg elfogy 
+az adat a readable stream-ről

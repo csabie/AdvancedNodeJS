@@ -1,0 +1,2 @@
+A transform stream egy duplex stream fajta. Eddig a readból a write-val átadogattuk az adatokat. 
+Itt most az adatokat transzformáljuk/megváltoztatjuk.
